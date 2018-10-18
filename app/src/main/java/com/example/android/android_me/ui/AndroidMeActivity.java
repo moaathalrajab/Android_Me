@@ -22,6 +22,8 @@ import android.os.Bundle;
 import com.example.android.android_me.R;
 
 // This activity will display a custom Android image composed of three body parts: head, body, and legs
+//https://www.youtube.com/watch?v=r6f7B7diM9w
+
 public class AndroidMeActivity extends AppCompatActivity {
 
     @Override
